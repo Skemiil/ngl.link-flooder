@@ -1,8 +1,4 @@
 import requests
-import os
-import random
-import string
-import json
 # -------------------------------------------
 # ngl.link flooder by SkemiiL
 # -------------------------------------------
