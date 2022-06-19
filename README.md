@@ -2,7 +2,7 @@
 This is a flooder for ngl.link since I noticed its been getting traction on instagram and snapchat
 
 ## Preview
-![fullscreen](https://github.com/Skemiil/ngl.link-flooder/blob/master/preview.png?raw=true)
+![fullscreen](https://github.com/Skemiil/ngl.link-flooder/blob/main/preview.png?raw=true)
 
 ## Usage
 1. Download
