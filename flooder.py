@@ -12,3 +12,5 @@ for x in range(0, amt):
     "question": text
     })
     print("Sending text: %s to %s. Message %i out of %i" % (text, url, x, amt))
+
+print("Finished flood!")
